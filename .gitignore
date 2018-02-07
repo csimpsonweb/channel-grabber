@@ -1,0 +1,7 @@
+.idea
+node_modules
+.sass-cache
+vendor
+public/js/app-bundle.js
+public/js/app-bundle.js.map
+channelgrabber-tech-test-frontend.zip

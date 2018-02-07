@@ -1,0 +1,32 @@
+$blue: #1477aa;
+$lightBlue: #5fafda;
+$red : #ff0000;
+
+
+header {
+  background-color: $red;
+  color: white;
+  padding: 116px;
+  font-weight: bold;
+}
+
+.container {
+  margin-top: 24px;
+}
+
+.table-products {
+  margin-top: 24px;
+  width: 100%;
+
+  thead td {
+    margin: 0 1px 1px 0;
+    background-color: $lightBlue;
+    padding: 8px;
+    color: white;
+    font-weight: bold;
+  }
+
+  td {
+    padding: 8px;
+  }
+}
